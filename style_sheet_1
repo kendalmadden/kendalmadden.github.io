@@ -1,0 +1,17 @@
+
+    titles {
+        background: #FCC;
+    }
+
+    content {
+         background: #CFC;
+     }
+
+    lists {
+        background: #CCF;
+    }
+
+    padding {
+        width:200px;
+        height: 30px;
+    }

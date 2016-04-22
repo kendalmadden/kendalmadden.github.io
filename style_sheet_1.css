@@ -1,0 +1,24 @@
+
+    .titles {
+        background: #FCC;
+    }
+
+    .content {
+         background: #CFC;
+     }
+
+    .lists {
+        background: #CCF;
+    }
+
+    .rest {
+        width:1000px;
+        height: 30px;
+    padding:50px}
+
+    .peace{width:500px;
+        height: 100px}
+
+    .menu{width:90px; height:30px;float:left;font-family:Papyrus;}
+
+    h2{clear:both;}
