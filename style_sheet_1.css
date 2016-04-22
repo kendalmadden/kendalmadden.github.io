@@ -19,6 +19,10 @@
     .peace{width:500px;
         height: 100px}
 
-    .menu{width:90px; height:30px;float:left;font-family:Papyrus;}
+    .menu{ height:30px;float:left;font-family:Papyrus; padding-left: 3em; padding-right: 3em}
 
     h2{clear:both;}
+
+    #damnimg {image-orientation:from-image;}
+
+    #clear {clear: both}
