@@ -1,14 +1,14 @@
 
     .titles {
-        background: #9EEFE5;
+        background: #9EEFE5;font-family:Didot;
     }
 
     .content {
-         background: #C0E0DE;
+         background: #C0E0DE;font-family:Didot;
      }
 
     .lists {
-        background: #C0E0DE;
+        background: #C0E0DE;font-family:Didot;
     }
 
     .rest {
@@ -19,7 +19,7 @@
     .peace{width:500px;
         height: 100px}
 
-    .menu{ height:30px;float:left;font-family:Papyrus; padding-left: 3em; padding-right: 3em}
+    .menu{ height:30px;float:left;font-family:Didot; padding-left: 3em; padding-right: 3em}
 
     h2{clear:both;}
 
