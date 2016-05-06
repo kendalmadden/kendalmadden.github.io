@@ -39,4 +39,4 @@
 
     .centerbox {margin:auto;}
 
-    .fullbox {width:100%}
+    .halfbox{display:inline-block}
