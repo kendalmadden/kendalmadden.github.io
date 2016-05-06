@@ -15,7 +15,7 @@
     .rest {
         width:100%;
         height: 30px;
-    padding:50px}
+    padding:50px 0px}
 
     .peace{width:500px;
         height: 100px}
@@ -34,4 +34,6 @@
 
     a:visited {text-decoration:none; color:black;}
 
-    .content nav{text-align: center; width:100%; background-color: #C0E0DE; height: 50px;}
+    nav{text-align: center; width:100%; background-color: #C0E0DE; height: 4em;}
+
+    .centerbox {margin:auto;}
