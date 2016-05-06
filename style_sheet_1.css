@@ -12,14 +12,14 @@
     }
 
     .rest {
-        width:1000px;
+        width:100%;
         height: 30px;
     padding:50px}
 
     .peace{width:500px;
         height: 100px}
 
-    .menu{ height:30px;float:left;font-family:Didot; padding-left: 3em; padding-right: 3em}
+    .menu{ height:30px; width: 100%; float:left;font-family:Didot; padding-left: 3em; padding-right: 3em}
 
     h2{clear:both;}
 
