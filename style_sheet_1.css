@@ -1,15 +1,15 @@
 
     .titles {
-        background: #9EEFE5;font-family:Didot;
+        background: #9EEFE5;font-family:Didot, Arial;
     }
 
     .content {
-         background: #C0E0DE;font-family:Didot;}
+         background: #C0E0DE;font-family:Didot, Arial;}
 
-    .para {font-family:Didot;}     
+    .para {font-family:Didot, Arial;}     
 
     .lists {
-        background: #C0E0DE;font-family:Didot;
+        background: #C0E0DE;font-family:Didot, Arial;
     }
 
     .rest {
@@ -17,7 +17,7 @@
     padding:50px; margin:0;}
 
     .peace{width:500px;
-        height: 100px}
+        }
 
     .menu{ height:30px; display:inline-block; font-family:Didot; padding-left: 3em; padding-right: 3em}
 
