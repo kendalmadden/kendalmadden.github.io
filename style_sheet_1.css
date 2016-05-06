@@ -4,8 +4,9 @@
     }
 
     .content {
-         background: #C0E0DE;font-family:Didot;
-     }
+         background: #C0E0DE;font-family:Didot;}
+
+    .para {font-family:Didot;}     
 
     .lists {
         background: #C0E0DE;font-family:Didot;
@@ -33,4 +34,4 @@
 
     a:visited {text-decoration:none; color:black;}
 
-    .content nav{text-align: center; width:100%; background-color: #C0E0DE}
+    .content nav{text-align: center; width:100%; background-color: #C0E0DE; height: 50px;}
